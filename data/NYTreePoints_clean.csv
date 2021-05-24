@@ -1,0 +1,469 @@
+,OBJECTID,TPCondition,GenusSpecies,SpeciesGroup,Date,RiskRating,Age,Inspection
+0,971204,Excellent,Abies alba - silver fir,Other,10/16/2019 12:36:00 PM,4.0,10,0
+2,963554,Poor,Acer - maple,Other,10/7/19 17:11,,6,0
+3,1013971,Good,Acer griseum - paperbark maple,Acer,10/23/2019 03:03:00 PM,3.0,7,1
+4,1039124,Fair,Acer platanoides - Norway maple,Acer,10/28/2019 03:30:00 PM,8.0,1,1
+6,986894,Good,Acer platanoides - Norway maple,Acer,10/17/2019 11:04:00 PM,3.0,2,0
+7,1260118,Fair,Acer platanoides - Norway maple,Acer,10/20/2015 01:44:00 PM,7.0,9,1
+8,978734,Critical,Acer platanoides - Norway maple,Acer,10/17/2019 11:43:00 AM,,6,0
+10,1027021,Good,Acer platanoides - Norway maple,Acer,10/24/2019 06:58:00 PM,6.0,10,1
+12,2570967,Poor,Acer platanoides - Norway maple,Acer,02/16/2016 07:15:00 PM,,4,0
+13,1003900,Good,Acer platanoides - Norway maple,Acer,10/21/2019 02:05:00 PM,6.0,8,0
+15,1448899,Good,Acer platanoides - Norway maple,Acer,10/29/2015 03:46:00 PM,7.0,2,0
+16,992617,Good,Acer platanoides - Norway maple,Acer,10/18/2019 03:51:00 PM,3.0,5,0
+18,4791113,Fair,Acer platanoides - Norway maple,Acer,12/27/2016 08:20:04 AM,7.0,7,1
+19,1395967,Good,Acer platanoides - Norway maple,Acer,10/29/2015 12:43:00 PM,4.0,2,0
+20,2915828,Poor,Acer platanoides - Norway maple,Acer,03/15/2016 03:55:00 PM,9.0,7,1
+21,1024807,Fair,Acer platanoides - Norway maple,Acer,10/24/2019 04:50:00 PM,7.0,6,1
+23,994762,Good,Acer platanoides - Norway maple,Acer,10/18/2019 05:10:00 PM,3.0,10,0
+24,1026587,Good,Acer platanoides - Norway maple,Acer,10/24/2019 06:41:00 PM,6.0,10,1
+25,1024389,Good,Acer platanoides - Norway maple,Acer,10/24/2019 04:33:00 PM,6.0,10,1
+26,995163,Good,Acer platanoides - Norway maple,Acer,10/18/2019 04:07:00 PM,3.0,2,0
+27,3367536,Good,Acer platanoides - Norway maple,Acer,5/11/16 17:34,7.0,3,0
+28,1424548,Poor,Acer platanoides - Norway maple,Acer,10/29/2015 02:22:00 PM,8.0,9,1
+30,1415424,Poor,Acer platanoides - Norway maple,Acer,10/29/2015 01:50:46 PM,9.0,5,1
+33,2540858,Poor,Acer platanoides - Norway maple,Acer,2/12/16 14:49,8.0,5,1
+35,4633544,Good,Acer platanoides - Norway maple,Acer,11/2/16 16:59,7.0,1,0
+37,988508,Good,Acer platanoides - Norway maple,Acer,10/18/2019 12:39:00 AM,3.0,2,0
+38,4135600,Good,Acer platanoides 'Not Green Leaf' - 'Not Green Leaf' Norway maple,Acer,8/10/16 12:11,5.0,8,0
+41,4594892,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,8,0
+42,4594251,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,8,0
+43,4594836,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,7,0
+44,4594312,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,7,0
+45,4595260,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,10,0
+46,4594146,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,7,1
+47,4595190,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,4,1
+48,4594287,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:00 AM,,6,1
+49,4595110,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,1,1
+50,4595125,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,10,0
+51,4595133,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,1,0
+52,576595,Good,Acer rubrum - red maple,Acer,08/25/2015 10:40:33 AM,6.0,1,0
+53,4595124,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,7,0
+54,5309750,Good,Acer rubrum - red maple,Acer,4/11/18 11:11,6.0,6,0
+55,4594295,Excellent,Acer rubrum - red maple,Acer,10/27/2016 11:11:11 AM,,6,0
+56,2642035,Poor,Acer saccharinum - silver maple,Acer,2/12/16 17:17,7.0,8,0
+57,4042072,Fair,Acer saccharinum - silver maple,Acer,8/1/16 15:08,10.0,1,1
+58,3641093,Good,Acer saccharum - sugar maple,Acer,5/11/16 18:45,3.0,4,0
+59,4594579,Excellent,Acer x freemanii - Freeman maple,Acer,10/27/2016 11:11:00 AM,,5,0
+60,4595486,Excellent,Aesculus x carnea - red horse-chestnut,Other,10/27/2016 11:11:00 AM,,6,0
+62,1003039,Poor,Ailanthus altissima - tree of heaven,Other,10/19/2019 10:33:00 PM,7.0,8,1
+64,2643112,Good,Amelanchier - serviceberry,Other,2/12/16 17:23,,5,1
+65,585320,Good,Amelanchier - serviceberry,Other,08/25/2015 11:04:00 AM,5.0,7,1
+66,4595708,Excellent,Amelanchier laevis - Allegheny serviceberry,Other,10/27/2016 11:11:11 AM,,10,1
+67,6075068,Good,Betula nigra - river birch,Other,03/18/2019 02:56:14 PM,6.0,9,0
+68,4595774,Excellent,Betula nigra - river birch,Other,10/27/2016 11:11:00 AM,,2,0
+69,5585828,Good,Betula pendula - European white birch,Other,11/7/18 11:11,8.0,8,1
+70,4596253,Excellent,Carpinus betulus - European hornbeam,Other,10/27/2016 11:11:00 AM,,5,0
+71,4596228,Excellent,Carpinus betulus - European hornbeam,Other,10/27/2016 11:11:11 AM,,1,0
+72,4595805,Excellent,Carpinus betulus - European hornbeam,Other,10/27/2016 11:11:11 AM,,3,0
+73,4596011,Excellent,Carpinus betulus - European hornbeam,Other,10/27/2016 11:11:11 AM,,6,0
+74,4596656,Excellent,Carpinus caroliniana - American hornbeam,Other,10/27/2016 11:11:11 AM,,5,0
+75,4596688,Excellent,Carpinus caroliniana - American hornbeam,Other,10/27/2016 11:11:11 AM,,10,0
+76,4596631,Excellent,Carpinus caroliniana - American hornbeam,Other,10/27/2016 11:11:11 AM,,6,0
+77,4596482,Excellent,Carpinus caroliniana - American hornbeam,Other,10/27/2016 11:11:11 AM,,7,0
+78,4596453,Excellent,Carpinus caroliniana - American hornbeam,Other,10/27/2016 11:11:11 AM,,6,0
+79,986897,Good,Carya cordiformis - bitternut hickory,Other,10/17/2019 11:28:00 PM,6.0,8,0
+80,4596821,Excellent,Catalpa speciosa - northern catalpa,Other,10/27/2016 11:11:11 AM,,2,0
+81,4596818,Excellent,Catalpa speciosa - northern catalpa,Other,10/27/2016 11:11:11 AM,,5,0
+82,4597333,Excellent,Celtis occidentalis - common hackberry,Other,10/27/2016 11:11:11 AM,,6,0
+83,4597418,Excellent,Celtis occidentalis - common hackberry,Other,10/27/2016 11:11:00 AM,,4,0
+84,4597632,Excellent,Celtis occidentalis - common hackberry,Other,10/27/2016 11:11:11 AM,,1,0
+85,4597254,Excellent,Cercidiphyllum japonicum - katsura tree,Other,10/27/2016 11:11:11 AM,,5,0
+86,4596948,Excellent,Cercis canadensis - eastern redbud,Other,10/27/2016 11:11:11 AM,,9,0
+87,4597027,Excellent,Cercis canadensis - eastern redbud,Other,10/27/2016 11:11:11 AM,,9,0
+88,4596954,Excellent,Cercis canadensis - eastern redbud,Other,10/27/2016 11:11:11 AM,,5,0
+89,4596949,Excellent,Cercis canadensis - eastern redbud,Other,10/27/2016 11:11:11 AM,,2,1
+90,4597031,Excellent,Cercis canadensis - eastern redbud,Other,10/27/2016 11:11:11 AM,,7,1
+91,4596876,Excellent,Cercis canadensis - eastern redbud,Other,10/27/2016 11:11:11 AM,,9,1
+92,4596968,Excellent,Cercis canadensis - eastern redbud,Other,10/27/2016 11:11:00 AM,,9,1
+93,4597189,Excellent,Cercis canadensis - eastern redbud,Other,10/27/2016 11:11:11 AM,,2,1
+94,4597783,Excellent,Chamaecyparis thyoides - Atlantic white cedar,Other,10/27/2016 11:11:11 AM,,1,0
+95,4597644,Excellent,Chamaecyparis thyoides - Atlantic white cedar,Other,10/27/2016 11:11:00 AM,,10,0
+96,5344289,Critical,Chamaecyparis thyoides - Atlantic white cedar,Other,5/2/18 11:11,8.0,3,1
+97,4597710,Excellent,Chamaecyparis thyoides - Atlantic white cedar,Other,10/27/2016 11:11:00 AM,,4,0
+98,4597686,Excellent,Chamaecyparis thyoides - Atlantic white cedar,Other,10/27/2016 11:11:11 AM,,1,0
+99,4597855,Excellent,Chionanthus retusus - Chinese fringetree,Other,10/27/2016 11:11:11 AM,,9,0
+100,2589020,Good,Chionanthus retusus - Chinese fringetree,Other,1/5/16 12:27,3.0,6,0
+101,4597861,Excellent,Chionanthus retusus - Chinese fringetree,Other,10/27/2016 11:11:11 AM,,8,0
+102,2424142,Poor,Cladrastis kentukea - Kentucky yellowwood,Other,1/5/16 18:15,6.0,1,0
+103,4597923,Excellent,Cladrastis kentukea - Kentucky yellowwood,Other,10/27/2016 11:11:11 AM,,8,0
+104,4929002,Poor,Cornus florida - flowering dogwood,Other,04/20/2017 11:11:00 AM,3.0,1,0
+105,1034352,Fair,Crataegus - Hawthorn,Other,10/25/2019 07:52:00 PM,3.0,8,1
+106,4598225,Excellent,Crataegus - Hawthorn,Other,10/27/2016 11:11:11 AM,,7,0
+107,1031169,Good,Crataegus - Hawthorn,Other,10/25/2019 02:44:00 PM,3.0,3,0
+108,4598298,Excellent,Crataegus - Hawthorn,Other,10/27/2016 11:11:11 AM,,6,1
+109,4598706,Excellent,Eucommia ulmoides - Hardy Rubber Tree,Other,10/27/2016 11:11:11 AM,,1,1
+110,4598645,Excellent,Eucommia ulmoides - Hardy Rubber Tree,Other,10/27/2016 11:11:11 AM,,3,0
+111,4598623,Excellent,Eucommia ulmoides - Hardy Rubber Tree,Other,10/27/2016 11:11:00 AM,,5,0
+112,4598448,Excellent,Eucommia ulmoides - Hardy Rubber Tree,Other,10/27/2016 11:11:11 AM,,7,0
+113,4598613,Excellent,Eucommia ulmoides - Hardy Rubber Tree,Other,10/27/2016 11:11:11 AM,,9,0
+114,4598772,Excellent,Eucommia ulmoides - Hardy Rubber Tree,Other,10/27/2016 11:11:00 AM,,10,0
+115,583848,Fair,Eucommia ulmoides - Hardy Rubber Tree,Other,08/25/2015 11:00:00 AM,6.0,4,1
+116,4598888,Excellent,Fagus sylvatica - European beech,Other,10/27/2016 11:11:00 AM,,10,0
+117,4598828,Excellent,Fagus sylvatica - European beech,Other,10/27/2016 11:11:11 AM,,1,0
+118,4598906,Excellent,Fagus sylvatica - European beech,Other,10/27/2016 11:11:11 AM,,10,0
+119,2560633,Fair,Fraxinus americana - white ash,Other,2/12/16 17:05,6.0,6,1
+120,259263,Good,Fraxinus americana - white ash,Other,07/17/2015 03:14:00 PM,,1,0
+121,2536461,Poor,Fraxinus pennsylvanica - Green ash,Other,2/12/16 14:21,8.0,10,1
+122,2264997,Fair,Fraxinus pennsylvanica - Green ash,Other,1/5/16 19:30,5.0,4,1
+124,2537522,Fair,Fraxinus pennsylvanica - Green ash,Other,2/12/16 14:28,6.0,3,1
+125,3651190,Fair,Fraxinus pennsylvanica - Green ash,Other,5/11/16 17:56,6.0,5,1
+126,1053299,Good,Fraxinus pennsylvanica - Green ash,Other,10/1/15 13:48,5.0,3,0
+127,4012699,Fair,Fraxinus pennsylvanica - Green ash,Other,07/27/2016 01:31:26 PM,7.0,8,1
+128,3357432,Fair,Fraxinus pennsylvanica - Green ash,Other,5/11/16 18:16,7.0,6,1
+129,2495951,Fair,Fraxinus pennsylvanica - Green ash,Other,1/5/16 15:33,6.0,4,1
+130,590627,Fair,Fraxinus pennsylvanica - Green ash,Other,08/25/2015 11:19:18 AM,7.0,6,1
+131,952535,Fair,Fraxinus pennsylvanica - Green ash,Other,10/1/19 15:55,5.0,2,1
+132,1021215,Good,Ginkgo biloba - maidenhair tree,Other,10/24/2019 01:34:00 PM,3.0,2,0
+133,2141921,Good,Ginkgo biloba - maidenhair tree,Other,1/5/16 15:48,3.0,2,0
+134,3349231,Good,Ginkgo biloba - maidenhair tree,Other,5/11/16 17:22,3.0,6,0
+135,1022593,Good,Ginkgo biloba - maidenhair tree,Other,10/24/2019 02:58:00 PM,3.0,5,0
+136,1022183,Good,Ginkgo biloba - maidenhair tree,Other,10/24/2019 03:19:00 PM,3.0,2,0
+137,2131622,Good,Ginkgo biloba - maidenhair tree,Other,1/5/16 13:47,3.0,3,0
+138,4599063,Good,Ginkgo biloba - maidenhair tree,Other,10/27/2016 11:11:11 AM,,9,0
+139,3342284,Good,Ginkgo biloba - maidenhair tree,Other,5/11/16 20:07,3.0,2,0
+140,4599096,Excellent,Ginkgo biloba - maidenhair tree,Other,10/27/2016 11:11:00 AM,,6,1
+141,4598919,Excellent,Ginkgo biloba - maidenhair tree,Other,10/27/2016 11:11:11 AM,,9,1
+142,4599470,Excellent,Ginkgo biloba - maidenhair tree,Other,10/27/2016 11:11:00 AM,,1,1
+143,4599418,Excellent,Ginkgo biloba - maidenhair tree,Other,10/27/2016 11:11:11 AM,,8,0
+144,578471,Good,Ginkgo biloba - maidenhair tree,Other,08/25/2015 10:45:52 AM,5.0,7,0
+145,4599557,Excellent,Ginkgo biloba - maidenhair tree,Other,10/27/2016 11:11:11 AM,,4,1
+146,4599163,Excellent,Ginkgo biloba - maidenhair tree,Other,10/27/2016 11:11:11 AM,,3,1
+147,2129753,Good,Ginkgo biloba - maidenhair tree,Other,1/5/16 13:33,4.0,6,1
+148,4599159,Excellent,Ginkgo biloba - maidenhair tree,Other,10/27/2016 11:11:11 AM,,4,1
+149,950159,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/1/19 14:45,6.0,4,0
+150,4112140,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,8/11/16 10:17,6.0,6,0
+151,4600204,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:00 AM,,2,0
+152,4949424,Fair,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,05/18/2017 11:11:00 AM,7.0,3,1
+153,583886,Fair,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,08/25/2015 11:00:00 AM,6.0,9,1
+154,4599844,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:00 AM,,4,0
+155,583641,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,08/25/2015 10:59:47 AM,3.0,4,0
+156,3649317,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,5/11/16 19:56,6.0,7,0
+157,4600014,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:00 AM,,3,0
+158,2259760,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,1/5/16 18:41,6.0,5,0
+159,4599782,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:11 AM,,9,0
+160,1435266,Fair,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/29/2015 02:58:00 PM,6.0,6,1
+161,2145519,Poor,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,1/5/16 18:36,5.0,4,0
+162,5319257,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,4/12/18 18:05,3.0,1,0
+163,3984574,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,07/27/2016 01:17:39 PM,5.0,3,0
+164,1021214,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/24/2019 01:32:00 PM,3.0,10,0
+165,4599721,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:11 AM,,9,0
+166,583929,Fair,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,08/25/2015 11:00:00 AM,6.0,7,1
+167,2534583,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,2/12/16 14:12,3.0,9,0
+168,4599821,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:11 AM,,8,0
+169,2113796,Fair,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,1/5/16 12:21,7.0,1,1
+170,4599629,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:11 AM,,10,0
+171,2137557,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,1/5/16 14:31,5.0,10,0
+172,571844,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,08/25/2015 10:28:09 AM,3.0,8,0
+173,3998934,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,07/27/2016 01:45:14 PM,4.0,2,0
+174,2534285,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,2/12/16 14:10,3.0,4,0
+175,590274,Critical,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,08/25/2015 11:18:10 AM,10.0,10,1
+176,4112176,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,8/11/16 8:55,3.0,6,0
+177,4112151,Fair,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,8/11/16 9:36,4.0,2,1
+178,4600212,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:11 AM,,8,1
+179,576684,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,08/25/2015 10:40:48 AM,6.0,6,0
+180,3660575,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,5/11/16 20:17,6.0,7,0
+181,4599685,Excellent,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/27/2016 11:11:11 AM,,1,0
+182,3984242,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,07/27/2016 01:48:02 PM,4.0,10,0
+183,1442703,Good,Gleditsia triacanthos var. inermis - Thornless honeylocust,Gleditsia,10/29/2015 03:24:42 PM,3.0,6,0
+184,5782779,Poor,Gleditsia triacanthos var. inermis 'Skyline' - 'Skyline' Thornless honeylocust,Gleditsia,12/16/2016 12:00:00 AM,6.0,1,0
+185,4600413,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,1,1
+186,4600424,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,2,1
+187,4600744,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,9,1
+188,4600826,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,9,1
+189,3352329,Good,Gymnocladus dioicus - Kentucky coffeetree,Other,5/11/16 19:48,5.0,7,1
+190,4600640,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,1,1
+191,4601058,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,5,0
+192,4600694,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,1,0
+193,4601124,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,5,0
+194,4600502,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:00 AM,,5,0
+195,4601026,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,7,0
+196,4600427,Excellent,Gymnocladus dioicus - Kentucky coffeetree,Other,10/27/2016 11:11:11 AM,,7,0
+197,5579574,Good,Ilex - holly,Other,11/7/18 11:11,5.0,9,0
+198,4601395,Excellent,Juniperus chinensis - Chinese juniper,Other,10/27/2016 11:11:00 AM,,3,0
+199,4601498,Excellent,Juniperus virginiana - eastern redcedar,Other,10/27/2016 11:11:00 AM,,6,0
+200,4601583,Excellent,Juniperus virginiana - eastern redcedar,Other,10/27/2016 11:11:00 AM,,5,0
+201,4601577,Excellent,Juniperus virginiana - eastern redcedar,Other,10/27/2016 11:11:00 AM,,7,0
+202,4601631,Excellent,Koelreuteria paniculata - goldenrain tree,Other,10/27/2016 11:11:11 AM,,1,0
+203,4601616,Excellent,Koelreuteria paniculata - goldenrain tree,Other,10/27/2016 11:11:11 AM,,8,0
+204,4601735,Excellent,Koelreuteria paniculata - goldenrain tree,Other,10/27/2016 11:11:11 AM,,4,0
+205,4601667,Excellent,Koelreuteria paniculata - goldenrain tree,Other,10/27/2016 11:11:11 AM,,1,0
+206,4601618,Excellent,Koelreuteria paniculata - goldenrain tree,Other,10/27/2016 11:11:11 AM,,5,0
+207,4601610,Excellent,Koelreuteria paniculata - goldenrain tree,Other,10/27/2016 11:11:11 AM,,3,0
+208,4601762,Excellent,Lagerstroemia - lagerstroemia,Other,10/27/2016 11:11:11 AM,,8,0
+209,4602376,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,10,0
+210,4601895,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,9,0
+211,4601838,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,5,1
+212,4601854,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,8,1
+213,4602358,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,10,1
+214,4601939,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,1,1
+215,4602151,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,4,1
+216,4602411,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,8,1
+217,4601890,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,9,1
+218,4602172,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,5,1
+219,5476985,Good,Liquidambar styraciflua - sweetgum,Other,09/19/2018 03:27:10 PM,3.0,5,0
+220,4601911,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,4,0
+221,4602250,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,1,1
+222,4601966,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,4,1
+223,4602350,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,5,1
+224,4602405,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:11 AM,,4,1
+225,4602121,Excellent,Liquidambar styraciflua - sweetgum,Other,10/27/2016 11:11:00 AM,,7,0
+226,995172,Critical,Liquidambar styraciflua 'Cherokee' - 'Cherokee' Sweetgum,Other,10/18/2019 05:38:00 PM,,2,0
+227,4602436,Excellent,Liriodendron tulipifera - tuliptree,Other,10/27/2016 11:11:00 AM,,4,0
+228,4602564,Excellent,Maackia amurensis - Amur maackia,Other,10/27/2016 11:11:11 AM,,2,0
+229,4998454,Good,Maackia amurensis - Amur maackia,Other,7/6/17 11:11,3.0,9,0
+230,4602733,Excellent,Magnolia x soulangiana - Chinese magnolia,Other,10/27/2016 11:11:00 AM,,3,0
+231,5575771,Good,Malus - apple,Other,11/7/18 11:11,,6,0
+233,5330986,Poor,Malus - apple,Other,04/26/2018 10:06:21 AM,6.0,6,0
+234,4602762,Excellent,Metasequoia glyptostroboides - dawn redwood,Other,10/27/2016 11:11:11 AM,,4,0
+235,4150592,Good,Metasequoia glyptostroboides - dawn redwood,Other,07/27/2016 03:07:20 PM,4.0,7,0
+236,4603017,Excellent,Metasequoia glyptostroboides - dawn redwood,Other,10/27/2016 11:11:11 AM,,6,0
+237,4127013,Good,Metasequoia glyptostroboides - dawn redwood,Other,07/27/2016 03:07:15 PM,3.0,6,0
+238,4603023,Excellent,Metasequoia glyptostroboides - dawn redwood,Other,10/27/2016 11:11:11 AM,,5,0
+239,5581579,Fair,Morus - mulberry,Other,11/7/18 11:11,7.0,3,1
+240,5584330,Good,Morus - mulberry,Other,11/7/18 11:11,7.0,7,0
+241,5594096,Fair,Morus - mulberry,Other,11/7/18 11:11,8.0,4,1
+242,986468,Fair,Morus - mulberry,Other,10/18/2019 12:01:00 AM,5.0,10,1
+243,951104,Fair,Morus - mulberry,Other,10/1/19 16:02,8.0,8,1
+244,5585237,Fair,Morus - mulberry,Other,11/7/18 11:11,6.0,5,1
+245,4603191,Excellent,Ostrya virginiana - hophornbeam,Other,10/27/2016 11:11:11 AM,,9,0
+246,4603305,Excellent,Parrotia persica - Persian ironwood,Other,10/27/2016 11:11:11 AM,,7,0
+247,4603406,Excellent,Parrotia persica - Persian ironwood,Other,10/27/2016 11:11:11 AM,,1,0
+248,4603508,Excellent,Picea pungens - blue spruce,Other,10/27/2016 11:11:11 AM,,8,0
+249,4603518,Excellent,Pinus strobus - eastern white pine,Other,10/27/2016 11:11:00 AM,,5,0
+250,4603538,Excellent,Pinus strobus - eastern white pine,Other,10/27/2016 11:11:00 AM,,2,0
+251,4699141,Fair,Platanus x acerifolia - London planetree,Other,11/2/16 16:59,7.0,9,1
+252,4603623,Excellent,Platanus x acerifolia - London planetree,Other,10/27/2016 11:11:11 AM,,3,0
+253,2241613,Good,Platanus x acerifolia - London planetree,Other,1/5/16 13:45,3.0,2,0
+254,4604044,Excellent,Platanus x acerifolia - London planetree,Other,10/27/2016 11:11:00 AM,,10,0
+256,4604059,Excellent,Platanus x acerifolia - London planetree,Other,10/27/2016 11:11:11 AM,,6,0
+257,4993642,Good,Platanus x acerifolia - London planetree,Other,7/6/17 11:11,3.0,10,0
+258,5303984,Good,Platanus x acerifolia - London planetree,Other,4/11/18 11:11,3.0,2,0
+259,4603910,Excellent,Platanus x acerifolia - London planetree,Other,10/27/2016 11:11:11 AM,,7,0
+260,2270541,Good,Platanus x acerifolia - London planetree,Other,1/5/16 19:55,6.0,8,0
+261,4603813,Excellent,Platanus x acerifolia - London planetree,Other,10/27/2016 11:11:11 AM,,1,1
+262,5308406,Good,Platanus x acerifolia - London planetree,Other,4/11/18 11:11,3.0,9,0
+263,4603896,Excellent,Platanus x acerifolia - London planetree,Other,10/27/2016 11:11:11 AM,,8,1
+264,4923696,Good,Platanus x acerifolia - London planetree,Other,04/20/2017 11:22:12 AM,5.0,3,0
+265,2608327,Fair,Platanus x acerifolia - London planetree,Other,1/5/16 18:52,8.0,7,1
+266,3651087,Poor,Platanus x acerifolia - London planetree,Other,5/11/16 17:26,8.0,4,1
+267,1488702,Fair,Platanus x acerifolia - London planetree,Other,11/2/15 14:21,8.0,8,1
+268,4134243,Good,Platanus x acerifolia - London planetree,Other,07/27/2016 03:02:20 PM,4.0,7,0
+269,4604076,Excellent,Platanus x acerifolia - London planetree,Other,10/27/2016 11:11:11 AM,,2,0
+270,2414358,Good,Platanus x acerifolia - London planetree,Other,1/5/16 17:28,5.0,10,0
+271,4649674,Fair,Platanus x acerifolia - London planetree,Other,11/2/16 16:59,7.0,8,1
+272,4603955,Excellent,Platanus x acerifolia - London planetree,Other,10/27/2016 11:11:00 AM,,5,0
+275,3762742,Fair,Platanus x acerifolia - London planetree,Other,06/21/2016 02:30:00 PM,7.0,8,1
+276,2241638,Fair,Platanus x acerifolia - London planetree,Other,1/5/16 13:45,7.0,2,1
+277,4994006,Good,Platanus x acerifolia - London planetree,Other,7/6/17 11:11,3.0,10,0
+278,2594535,Fair,Platanus x acerifolia - London planetree,Other,1/5/16 15:28,3.0,3,1
+279,5305631,Good,Platanus x acerifolia - London planetree,Other,4/11/18 11:11,3.0,2,0
+281,5588431,Fair,Prunus - Cherry,Other,11/7/18 11:11,5.0,9,1
+282,583869,Fair,Prunus - Cherry,Other,08/25/2015 11:00:00 AM,6.0,8,1
+283,5330983,Fair,Prunus - Cherry,Other,04/26/2018 10:07:54 AM,6.0,6,1
+284,10072328,Good,Prunus - Cherry,Other,10/31/2019 02:06:00 PM,5.0,3,0
+285,4129123,Good,Prunus cerasifera - cherry plum,Other,8/10/16 12:40,7.0,3,0
+286,2561521,Good,Prunus cerasifera - cherry plum,Other,2/12/16 17:19,3.0,9,0
+287,2506240,Fair,Prunus cerasifera - cherry plum,Other,1/5/16 18:45,7.0,9,1
+288,4974155,Fair,Prunus cerasifera - cherry plum,Other,06/22/2017 07:39:57 AM,3.0,3,1
+289,4949000,Good,Prunus cerasifera - cherry plum,Other,05/18/2017 11:11:11 AM,5.0,10,0
+290,4604410,Excellent,Prunus cerasifera - cherry plum,Other,10/27/2016 11:11:11 AM,,7,0
+293,4095773,Good,Prunus serotina - black cherry,Other,8/10/16 10:21,3.0,9,0
+294,4095768,Good,Prunus serotina - black cherry,Other,8/10/16 10:28,3.0,7,0
+296,986902,Good,Prunus serotina - black cherry,Other,10/17/2019 11:53:00 PM,6.0,10,0
+297,4112170,Fair,Prunus serotina - black cherry,Other,8/11/16 9:03,3.0,3,1
+298,3990878,Good,Prunus serrulata 'Green leaf' - 'Green leaf' Japanese flowering cherry,Other,07/27/2016 02:23:22 PM,5.0,9,0
+299,4006978,Fair,Prunus serrulata 'Green leaf' - 'Green leaf' Japanese flowering cherry,Other,07/27/2016 01:51:16 PM,7.0,2,1
+300,2408953,Good,Prunus serrulata 'Green leaf' - 'Green leaf' Japanese flowering cherry,Other,1/5/16 15:16,7.0,5,0
+301,5791485,Good,Prunus serrulata 'Kwanzan' - 'Kwanzan' Flowering cherry,Other,12/6/16 0:00,3.0,1,0
+302,4605125,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,8,0
+303,4605242,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,7,0
+304,4604823,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,9,1
+305,4605931,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,1,1
+306,4604871,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,5,1
+307,4605462,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,8,1
+308,4604989,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:00 AM,,7,1
+309,4604631,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,4,1
+310,4605712,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:00 AM,,4,0
+311,4605353,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:00 AM,,10,0
+312,4604881,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,2,0
+313,4604934,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,10,0
+314,4605332,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,9,0
+315,4606069,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,6,0
+316,4605815,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,10,0
+317,4604992,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,9,0
+318,4605456,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,5,0
+319,4605043,Excellent,Prunus serrulata 'Not Green leaf' - 'Not Green leaf' Japanese flowering cherry,Other,10/27/2016 11:11:11 AM,,4,0
+320,1437440,Fair,Pyrus calleryana - Callery pear,Other,10/29/2015 03:06:23 PM,6.0,6,1
+321,595775,Fair,Pyrus calleryana - Callery pear,Other,08/25/2015 11:34:14 AM,7.0,1,1
+322,2412346,Fair,Pyrus calleryana - Callery pear,Other,1/5/16 16:35,6.0,7,1
+323,585943,Poor,Pyrus calleryana - Callery pear,Other,08/25/2015 11:05:56 AM,9.0,1,1
+324,583898,Fair,Pyrus calleryana - Callery pear,Other,08/25/2015 11:00:00 AM,5.0,3,1
+325,3649185,Good,Pyrus calleryana - Callery pear,Other,5/11/16 19:10,5.0,9,0
+326,2137007,Good,Pyrus calleryana - Callery pear,Other,1/5/16 14:24,3.0,4,0
+327,4141953,Good,Pyrus calleryana - Callery pear,Other,07/27/2016 03:34:00 PM,7.0,9,0
+328,1045191,Fair,Pyrus calleryana - Callery pear,Other,10/1/15 13:20,6.0,8,1
+329,578253,Good,Pyrus calleryana - Callery pear,Other,08/25/2015 10:45:19 AM,7.0,6,0
+331,4670499,Poor,Pyrus calleryana - Callery pear,Other,11/2/16 16:59,,7,0
+333,947240,Poor,Pyrus calleryana - Callery pear,Other,09/30/2019 04:11:48 PM,7.0,7,0
+335,4606310,Excellent,Quercus acutissima - sawtooth oak,Quercus,10/27/2016 11:11:11 AM,,8,0
+336,4606422,Excellent,Quercus acutissima - sawtooth oak,Quercus,10/27/2016 11:11:11 AM,,1,0
+337,1435260,Fair,Quercus acutissima - sawtooth oak,Quercus,10/29/2015 02:58:00 PM,6.0,4,1
+338,4606540,Excellent,Quercus acutissima - sawtooth oak,Quercus,10/27/2016 11:11:11 AM,,7,0
+339,4606536,Excellent,Quercus acutissima - sawtooth oak,Quercus,10/27/2016 11:11:11 AM,,7,0
+340,4606960,Excellent,Quercus bicolor - swamp white oak,Quercus,10/27/2016 11:11:11 AM,,7,0
+341,3764171,Good,Quercus bicolor - swamp white oak,Quercus,06/21/2016 03:53:37 PM,,7,0
+342,4607052,Excellent,Quercus bicolor - swamp white oak,Quercus,10/27/2016 11:11:11 AM,,5,0
+343,4607178,Excellent,Quercus bicolor - swamp white oak,Quercus,10/27/2016 11:11:00 AM,,9,0
+344,4606966,Excellent,Quercus bicolor - swamp white oak,Quercus,10/27/2016 11:11:11 AM,,3,0
+345,990932,Good,Quercus bicolor - swamp white oak,Quercus,10/18/2019 01:25:00 PM,3.0,8,0
+346,4607371,Excellent,Quercus coccinea - scarlet oak,Quercus,10/27/2016 11:11:11 AM,,5,0
+347,4607742,Excellent,Quercus imbricaria - shingle oak,Quercus,10/27/2016 11:11:00 AM,,1,0
+348,4607483,Excellent,Quercus imbricaria - shingle oak,Quercus,10/27/2016 11:11:11 AM,,9,0
+349,4607723,Excellent,Quercus imbricaria - shingle oak,Quercus,10/27/2016 11:11:11 AM,,6,0
+350,4607833,Excellent,Quercus muehlenbergii - chinkapin oak,Quercus,10/27/2016 11:11:11 AM,,8,0
+351,2249468,Good,Quercus palustris - pin oak,Quercus,1/5/16 16:09,7.0,10,0
+352,1405530,Fair,Quercus palustris - pin oak,Quercus,10/29/2015 01:16:28 PM,8.0,5,1
+353,2590651,Fair,Quercus palustris - pin oak,Quercus,1/5/16 14:29,8.0,8,1
+354,4608641,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:11 AM,,2,0
+355,3830307,Fair,Quercus palustris - pin oak,Quercus,7/11/16 16:43,7.0,9,1
+356,4608892,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:00 AM,,4,0
+357,4608209,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:11 AM,,7,0
+358,4607943,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:00 AM,,4,0
+359,950171,Fair,Quercus palustris - pin oak,Quercus,10/1/19 14:07,6.0,6,1
+360,1412323,Fair,Quercus palustris - pin oak,Quercus,10/29/2015 01:39:58 PM,7.0,10,1
+361,3606272,Good,Quercus palustris - pin oak,Quercus,06/20/2016 12:13:56 PM,6.0,6,0
+362,4608169,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:00 AM,,2,0
+363,4609035,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:11 AM,,5,0
+366,3741233,Good,Quercus palustris - pin oak,Quercus,06/21/2016 03:55:48 PM,6.0,7,0
+367,4150691,Fair,Quercus palustris - pin oak,Quercus,8/10/16 12:14,8.0,2,1
+368,3754915,Good,Quercus palustris - pin oak,Quercus,06/21/2016 04:36:08 PM,5.0,9,0
+369,4608130,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:00 AM,,2,0
+370,4690488,Poor,Quercus palustris - pin oak,Quercus,11/2/16 16:59,10.0,9,1
+371,1020390,Good,Quercus palustris - pin oak,Quercus,10/24/2019 12:37:00 PM,3.0,9,0
+372,4608112,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:00 AM,,2,0
+373,4608179,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:11 AM,,2,0
+374,4608698,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:00 AM,,3,0
+376,10063728,Good,Quercus palustris - pin oak,Quercus,10/29/2019 09:25:00 PM,6.0,6,0
+377,1385542,Good,Quercus palustris - pin oak,Quercus,10/29/2015 12:05:23 PM,6.0,8,0
+378,4608034,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:11 AM,,1,0
+379,4609566,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:00 AM,,3,0
+380,4134372,Fair,Quercus palustris - pin oak,Quercus,8/10/16 12:43,9.0,2,1
+381,4608480,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:11 AM,,3,0
+382,4608601,Excellent,Quercus palustris - pin oak,Quercus,10/27/2016 11:11:11 AM,,10,0
+383,1042781,Fair,Quercus palustris - pin oak,Quercus,10/1/15 13:12,7.0,4,1
+384,1425950,Fair,Quercus palustris - pin oak,Quercus,10/29/2015 02:26:45 PM,7.0,9,1
+385,2110343,Good,Quercus phellos - willow oak,Quercus,1/5/16 12:09,3.0,1,0
+386,960640,Good,Quercus phellos - willow oak,Quercus,10/3/19 15:41,7.0,10,0
+387,1009559,Good,Quercus rubra - northern red oak,Quercus,10/22/2019 06:53:00 PM,3.0,2,0
+389,4609217,Excellent,Quercus rubra - northern red oak,Quercus,10/27/2016 11:11:11 AM,,8,0
+390,4609203,Excellent,Quercus rubra - northern red oak,Quercus,10/27/2016 11:11:11 AM,,10,0
+391,4609147,Excellent,Quercus rubra - northern red oak,Quercus,10/27/2016 11:11:11 AM,,8,0
+392,4609210,Excellent,Quercus rubra - northern red oak,Quercus,10/27/2016 11:11:00 AM,,3,0
+394,4627756,Good,Quercus rubra - northern red oak,Quercus,11/2/16 16:59,3.0,9,0
+395,588848,Good,Quercus rubra - northern red oak,Quercus,08/25/2015 11:14:07 AM,3.0,7,0
+396,4609412,Excellent,Quercus shumardii - Shumard's oak,Quercus,10/27/2016 11:11:00 AM,,1,0
+397,4609419,Excellent,Quercus shumardii - Shumard's oak,Quercus,10/27/2016 11:11:11 AM,,2,0
+398,6193112,Poor,Robinia pseudoacacia - black locust,Other,04/24/2019 09:59:00 AM,9.0,9,1
+399,974535,Good,Robinia pseudoacacia - black locust,Other,10/16/2019 05:28:00 PM,3.0,7,0
+400,1396306,Good,Robinia pseudoacacia - black locust,Other,10/29/2015 12:44:00 PM,,9,0
+402,988512,Good,Robinia pseudoacacia - black locust,Other,10/18/2019 02:00:00 AM,6.0,10,0
+404,3765148,Good,Sassafras albidum - sassafras,Other,06/21/2016 03:46:39 PM,3.0,1,0
+405,2512307,Fair,Sassafras albidum - sassafras,Other,1/5/16 20:29,,7,1
+406,2245363,Good,Styphnolobium japonicum - Japanese pagoda tree,Other,1/5/16 15:18,5.0,4,0
+408,4056161,Fair,Styphnolobium japonicum - Japanese pagoda tree,Other,8/2/16 8:47,6.0,6,1
+409,4610339,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:11 AM,,7,0
+410,4609937,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:00 AM,,2,0
+411,4950107,Fair,Styphnolobium japonicum - Japanese pagoda tree,Other,05/18/2017 11:11:11 AM,6.0,1,1
+412,4610102,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:11 AM,,6,0
+413,3984042,Fair,Styphnolobium japonicum - Japanese pagoda tree,Other,07/27/2016 12:51:00 PM,7.0,6,1
+414,3752875,Fair,Styphnolobium japonicum - Japanese pagoda tree,Other,06/21/2016 04:44:58 PM,,7,1
+415,1021610,Good,Styphnolobium japonicum - Japanese pagoda tree,Other,10/24/2019 12:39:00 PM,3.0,10,0
+416,4609893,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:11 AM,,9,0
+417,4609656,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:11 AM,,6,0
+418,4609826,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:11 AM,,9,0
+419,4950059,Fair,Styphnolobium japonicum - Japanese pagoda tree,Other,05/18/2017 11:11:00 AM,6.0,2,1
+420,4610139,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:11 AM,,6,0
+421,2534588,Good,Styphnolobium japonicum - Japanese pagoda tree,Other,2/12/16 14:12,3.0,4,0
+422,5357742,Fair,Styphnolobium japonicum - Japanese pagoda tree,Other,5/9/18 20:39,6.0,2,1
+423,4609814,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:11 AM,,8,0
+424,590984,Good,Styphnolobium japonicum - Japanese pagoda tree,Other,08/25/2015 11:20:16 AM,6.0,7,0
+425,4609726,Excellent,Styphnolobium japonicum - Japanese pagoda tree,Other,10/27/2016 11:11:11 AM,,9,0
+426,3730969,Fair,Styphnolobium japonicum 'Millstone' - 'Millstone' Japanese pagodatree,Other,06/21/2016 03:42:00 PM,7.0,7,1
+427,4610408,Excellent,Styrax japonicus - Japanese snowbell,Other,10/27/2016 11:11:11 AM,,9,0
+428,4610540,Excellent,Syringa pekinensis - Peking tree lilac,Other,10/27/2016 11:11:11 AM,,5,0
+429,4610785,Excellent,Syringa reticulata - Japanese tree lilac,Other,10/27/2016 11:11:11 AM,,4,0
+430,4610627,Excellent,Syringa reticulata - Japanese tree lilac,Other,10/27/2016 11:11:00 AM,,7,0
+432,4610981,Excellent,Taxodium distichum - bald cypress,Other,10/27/2016 11:11:00 AM,,1,0
+433,951107,Good,Taxus baccata - English yew,Other,10/1/19 16:10,5.0,4,0
+434,5104973,Good,Thuja occidentalis - arborvitae,Other,11/15/2017 11:11:11 AM,3.0,6,0
+435,4611464,Excellent,Tilia americana - American basswood,Other,10/27/2016 11:11:11 AM,,3,0
+437,4611164,Excellent,Tilia americana - American basswood,Other,10/27/2016 11:11:00 AM,,9,0
+438,2245260,Good,Tilia americana - American basswood,Other,1/5/16 15:18,3.0,8,0
+439,952990,Fair,Tilia americana - American basswood,Other,10/1/19 19:59,3.0,6,1
+441,4077828,Good,Tilia americana - American basswood,Other,8/5/16 13:05,3.0,4,0
+442,4611448,Excellent,Tilia americana - American basswood,Other,10/27/2016 11:11:00 AM,,7,0
+443,4611537,Excellent,Tilia americana - American basswood,Other,10/27/2016 11:11:11 AM,,7,0
+444,4611246,Excellent,Tilia americana - American basswood,Other,10/27/2016 11:11:11 AM,,10,0
+445,4611334,Excellent,Tilia americana - American basswood,Other,10/27/2016 11:11:00 AM,,5,0
+446,4611278,Excellent,Tilia americana - American basswood,Other,10/27/2016 11:11:11 AM,,2,0
+447,4611600,Excellent,Tilia americana - American basswood,Other,10/27/2016 11:11:11 AM,,9,0
+448,4612222,Excellent,Tilia cordata - littleleaf linden,Other,10/27/2016 11:11:11 AM,,7,0
+449,10073694,Fair,Tilia cordata - littleleaf linden,Other,10/31/2019 05:02:00 PM,7.0,1,1
+451,4611773,Excellent,Tilia cordata - littleleaf linden,Other,10/27/2016 11:11:11 AM,,7,0
+452,4612276,Excellent,Tilia cordata - littleleaf linden,Other,10/27/2016 11:11:11 AM,,3,0
+453,946827,Good,Tilia cordata - littleleaf linden,Other,09/30/2019 01:51:43 PM,6.0,7,0
+454,4611662,Excellent,Tilia cordata - littleleaf linden,Other,10/27/2016 11:11:11 AM,,7,0
+455,572074,Fair,Tilia cordata - littleleaf linden,Other,08/25/2015 10:28:43 AM,7.0,1,1
+458,5315361,Good,Tilia cordata - littleleaf linden,Other,4/11/18 11:11,,1,0
+459,3998214,Fair,Tilia cordata - littleleaf linden,Other,07/27/2016 01:08:03 PM,6.0,7,1
+460,4002111,Good,Tilia cordata - littleleaf linden,Other,07/27/2016 01:31:02 PM,3.0,7,0
+462,2561697,Fair,Tilia cordata - littleleaf linden,Other,2/12/16 17:20,3.0,3,1
+463,4008453,Good,Tilia cordata - littleleaf linden,Other,07/27/2016 01:28:40 PM,5.0,9,0
+464,1442702,Good,Tilia cordata - littleleaf linden,Other,10/29/2015 03:24:42 PM,5.0,8,0
+465,4009101,Good,Tilia cordata - littleleaf linden,Other,07/27/2016 01:57:58 PM,4.0,3,0
+466,2113799,Fair,Tilia cordata - littleleaf linden,Other,1/5/16 12:21,6.0,7,1
+467,3992319,Good,Tilia cordata - littleleaf linden,Other,07/27/2016 01:58:05 PM,4.0,4,0
+468,1056505,Poor,Tilia tomentosa - silver linden,Other,10/1/15 13:59,8.0,7,1
+469,4612592,Excellent,Tilia tomentosa - silver linden,Other,10/27/2016 11:11:11 AM,,10,0
+470,4612458,Excellent,Tilia tomentosa - silver linden,Other,10/27/2016 11:11:00 AM,,2,0
+471,4612432,Excellent,Tilia tomentosa - silver linden,Other,10/27/2016 11:11:11 AM,,8,0
+472,4612647,Excellent,Tilia tomentosa - silver linden,Other,10/27/2016 11:11:11 AM,,5,0
+473,4612392,Excellent,Tilia tomentosa - silver linden,Other,10/27/2016 11:11:11 AM,,1,0
+474,585319,Fair,Tilia tomentosa - silver linden,Other,08/25/2015 11:04:00 AM,6.0,9,1
+475,4612004,Excellent,Tilia x. euchlora - Caucasian linden,Other,10/27/2016 11:11:11 AM,,9,0
+476,4613137,Excellent,Ulmus americana - American elm,Other,10/27/2016 11:11:11 AM,,2,0
+477,4612846,Excellent,Ulmus americana - American elm,Other,10/27/2016 11:11:11 AM,,9,0
+478,4612906,Excellent,Ulmus americana - American elm,Other,10/27/2016 11:11:00 AM,,4,0
+479,4612989,Excellent,Ulmus americana - American elm,Other,10/27/2016 11:11:11 AM,,10,0
+480,4613198,Excellent,Ulmus americana - American elm,Other,10/27/2016 11:11:11 AM,,9,0
+482,4613269,Excellent,Ulmus americana - American elm,Other,10/27/2016 11:11:11 AM,,10,0
+483,2148181,Good,Ulmus americana - American elm,Other,1/5/16 20:10,,3,0
+484,3740118,Poor,Ulmus americana - American elm,Other,06/21/2016 02:32:00 PM,6.0,6,0
+485,4613016,Excellent,Ulmus americana - American elm,Other,10/27/2016 11:11:11 AM,,7,0
+486,4613751,Excellent,Ulmus parvifolia - Chinese elm,Other,10/27/2016 11:11:11 AM,,5,0
+487,2269827,Good,Ulmus parvifolia - Chinese elm,Other,1/5/16 19:53,6.0,5,0
+488,4613484,Excellent,Ulmus parvifolia - Chinese elm,Other,10/27/2016 11:11:00 AM,,5,0
+489,4613673,Excellent,Ulmus parvifolia - Chinese elm,Other,10/27/2016 11:11:11 AM,,1,0
+490,4613435,Excellent,Ulmus parvifolia - Chinese elm,Other,10/27/2016 11:11:00 AM,,7,0
+499,2246644,Poor,Zelkova serrata - Japanese zelkova,Other,1/5/16 15:43,,2,0
+500,4614088,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,8,0
+501,4613990,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:00 AM,,4,0
+502,4614788,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,3,0
+503,4614335,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,4,0
+504,594019,Good,Zelkova serrata - Japanese zelkova,Other,08/25/2015 11:29:06 AM,3.0,3,0
+505,1430893,Good,Zelkova serrata - Japanese zelkova,Other,10/29/2015 02:43:23 PM,5.0,2,0
+506,2265244,Good,Zelkova serrata - Japanese zelkova,Other,1/5/16 19:32,6.0,3,0
+507,4614479,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,6,0
+508,2245339,Good,Zelkova serrata - Japanese zelkova,Other,1/5/16 15:18,5.0,10,0
+509,4613953,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,2,0
+510,4608740,Poor,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:00 AM,6.0,6,0
+511,4614091,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,10,0
+512,4614229,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,1,0
+513,4614492,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,2,0
+514,4614186,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,6,0
+515,4614748,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,7,0
+516,4614196,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,9,0
+517,3343643,Good,Zelkova serrata - Japanese zelkova,Other,5/11/16 18:43,6.0,5,0
+518,4614467,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,5,0
+519,4614659,Excellent,Zelkova serrata - Japanese zelkova,Other,10/27/2016 11:11:11 AM,,3,0
